@@ -1,6 +1,7 @@
 # ConsoleApplication
 
 ```
+Console.Title
 Environment.CommandLine
 Environment.Exit(<return code>)
 ```
